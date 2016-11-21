@@ -6,7 +6,7 @@ gradle添加依赖
    //依赖注解
       //依赖添加
       compile 'com.jakewharton:butterknife:8.4.0'
-      apt 'com.jakewharton:butterknife-compiler:8.4.0'
+      'com.jakewharton:butterknife-compiler:8.4.0'
       compile 'com.google.code.gson:gson:2.7'
       //高级的recyclerview
       compile 'com.jude:easyrecyclerview:4.2.3'
@@ -21,7 +21,7 @@ gradle添加依赖
       compile 'com.github.bumptech.glide:glide:3.7.0'
     
     
-用到的开源库：glide加载图片，butterknife注解，Retrofit请求数据，Rxjava
+用到的开源库：glide加载图片，butterknife注解，Retrofit请求数据，gson插件Rxjava
 http://api.tianapi.com/中的api
 
 效果
