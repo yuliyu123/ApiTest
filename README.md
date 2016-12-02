@@ -1,9 +1,10 @@
-# ApiTest
-RxJava,Retrofit,Glide及常用api封装成的小demo
+# 新闻&&微信客户端
+使用RxJava,Retrofit,Glide及常用api封装成的小demo
 
-gradle添加依赖
- 
-   //依赖注解
+用到的开源库：glide加载图片，butterknife注解，Retrofit请求数据，gson，Rxjava开发
+gradle添加依赖：
+```C++
+//依赖注解
       //依赖添加
       compile 'com.jakewharton:butterknife:8.4.0'
       'com.jakewharton:butterknife-compiler:8.4.0'
@@ -19,9 +20,9 @@ gradle添加依赖
       compile 'com.squareup.retrofit2:retrofit:2.1.0'
       compile 'com.squareup.retrofit2:converter-scalars:2.1.0'
       compile 'com.github.bumptech.glide:glide:3.7.0'
-    
-    
-用到的开源库：glide加载图片，butterknife注解，Retrofit请求数据，gson插件Rxjava
-http://api.tianapi.com/中的api
+```
 
-效果
+
+
+
+
