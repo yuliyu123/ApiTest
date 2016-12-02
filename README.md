@@ -21,7 +21,7 @@ gradle添加依赖：
       compile 'com.squareup.retrofit2:converter-scalars:2.1.0'
       compile 'com.github.bumptech.glide:glide:3.7.0'
 ```
-[image](http://img.mukewang.com/5662b29f00019ffc19201200.jpg)
+![image](http://img.mukewang.com/5662b29f00019ffc19201200.jpg)
 
 
 
