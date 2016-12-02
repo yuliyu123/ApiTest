@@ -3,7 +3,7 @@
 
 用到的开源库：glide加载图片，butterknife注解，Retrofit请求数据，gson，Rxjava开发
 
-api来自http://www.tianapi.com 的微信和新闻客户端
+api来自http://www.tianapi.com 的微信和新闻api
 gradle添加依赖：
 ```C++
 //依赖注解
