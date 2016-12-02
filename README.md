@@ -2,6 +2,8 @@
 使用RxJava,Retrofit,Glide及常用api封装成的小demo
 
 用到的开源库：glide加载图片，butterknife注解，Retrofit请求数据，gson，Rxjava开发
+
+api来自http://www.tianapi.com 的微信和新闻客户端
 gradle添加依赖：
 ```C++
 //依赖注解
@@ -21,7 +23,15 @@ gradle添加依赖：
       compile 'com.squareup.retrofit2:converter-scalars:2.1.0'
       compile 'com.github.bumptech.glide:glide:3.7.0'
 ```
-![image](http://img.mukewang.com/5662b29f00019ffc19201200.jpg)
+![image](https://github.com/yuliyu123/ApiTest/blob/master/1.png)
+
+![image](https://github.com/yuliyu123/ApiTest/blob/master/2.png)
+
+![image](https://github.com/yuliyu123/ApiTest/blob/master/3.png)
+
+![image](https://github.com/yuliyu123/ApiTest/blob/master/4.png)
+
+![image](https://github.com/yuliyu123/ApiTest/blob/master/5.png)
 
 
 
